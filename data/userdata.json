@@ -1,0 +1,23 @@
+{
+    "users":[
+        {
+            "username":"monsterpiece",
+            "password":"d0763edaa9d9bd2a9516280e9044d885",
+            "userDetails":{
+                "name":"luther",
+                "occupation":"student",
+                "hobbies":["fishin","puzzles","painting"]
+            }
+        },
+        {
+            "username":"cadeboi",
+            "password":"35fa0b1f2fca4be6ed0fab8c315494c6",
+            "userDetails":{
+                "name":"cade",
+                "occupation":"bossman",
+                "hobbies":["data-science","environmental-science","web3"]
+            }
+        }
+
+    ]
+}
